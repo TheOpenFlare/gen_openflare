@@ -1,2 +1,3 @@
-# OpenFlare plugin [![Build status](https://ci.appveyor.com/api/projects/status/onaivf09yb0r8n88362t?svg=true)](https://ci.appveyor.com/project/poqdavid/gen-openflare)[![Gittask](https://gittask.com/theopenflare/Lobby.svg)](https://gittask.com/theopenflare/Lobby)
+# OpenFlare plugin [![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/project/poqdavid/gen-openflare)[![Join the chat at https://gitter.im/theopenflare/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/theopenflare/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 OpenFlare Client Plugin for music players
