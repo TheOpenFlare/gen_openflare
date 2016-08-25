@@ -5,3 +5,5 @@ engines:
 ratings:
   paths: []
 exclude_paths: []
+- ".gitignore"
+- "gen_openflare/ReadMe.txt"
